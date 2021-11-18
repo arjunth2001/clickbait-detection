@@ -1,0 +1,6 @@
+Epoch: 1 | Training loss: 0.5822565550890451 | Validation Loss: 0.5789839640015462
+Epoch: 2 | Training loss: 0.567198671400547 | Validation Loss: 0.5791087870389386
+Epoch: 3 | Training loss: 0.5540358689435518 | Validation Loss: 0.5642886889762566
+Epoch: 4 | Training loss: 0.5448778300174598 | Validation Loss: 0.5605128868355778
+Epoch: 5 | Training loss: 0.5378908516197908 | Validation Loss: 0.5604141165649956
+Epoch: 6 | Training loss: 0.5318803756289143 | Validation Loss: 0.5594789911814726
