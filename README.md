@@ -41,3 +41,8 @@ Repository of the SMAI Project for Clickbait Detection
 ## Model Checkpoints
 
 * The saved model checkpoints can be viewed [here](https://iiitaphyd-my.sharepoint.com/:f:/g/personal/arjun_thekoot_research_iiit_ac_in/EpyZblI5sjNLjcuk7lRvbIgBlrAjmJbbrzjmkr8fj4W1Bw?e=YrDpmx).
+
+## References
+
+* Huang, P.S., He, X., Gao, J., Deng, L., Acero, A., Heck, L.: Learning deep structured semantic models for web search using clickthrough data. In: International Conference on Information & Knowledge Management, pp. 2333–2338. ACM (2013)
+* Dong, Manqing & Yao, Lina & Wang, Xianzhi & Benatallah, Boualem & Huang, Chaoran. (2019). Similarity-Aware Deep Attentive Model for Clickbait Detection. 
