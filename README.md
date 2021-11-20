@@ -40,4 +40,4 @@ Repository of the SMAI Project for Clickbait Detection
 
 ## Model Checkpoints
 
-* The saved model checpoints can be viewed [here](https://iiitaphyd-my.sharepoint.com/:f:/g/personal/arjun_thekoot_research_iiit_ac_in/EpyZblI5sjNLjcuk7lRvbIgBlrAjmJbbrzjmkr8fj4W1Bw?e=YrDpmx).
+* The saved model checkpoints can be viewed [here](https://iiitaphyd-my.sharepoint.com/:f:/g/personal/arjun_thekoot_research_iiit_ac_in/EpyZblI5sjNLjcuk7lRvbIgBlrAjmJbbrzjmkr8fj4W1Bw?e=YrDpmx).
