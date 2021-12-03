@@ -1,0 +1,15 @@
+Epoch: 1 | Training loss: 1.0072824627313859 | Validation Loss: 1.0239138623567228
+Epoch: 2 | Training loss: 0.9915184899171193 | Validation Loss: 1.0095821271340053
+Epoch: 3 | Training loss: 0.9764544523169851 | Validation Loss: 0.9959410037336454
+Epoch: 4 | Training loss: 0.9620551101978009 | Validation Loss: 0.9829614764191413
+Epoch: 5 | Training loss: 0.948292898000815 | Validation Loss: 0.9706170063852613
+Epoch: 6 | Training loss: 0.935139717943648 | Validation Loss: 0.958877644252256
+Epoch: 7 | Training loss: 0.9225673359887213 | Validation Loss: 0.9477167226414863
+Epoch: 8 | Training loss: 0.9105489986268883 | Validation Loss: 0.9371079711314759
+Epoch: 9 | Training loss: 0.8990589190446413 | Validation Loss: 0.9270249184200673
+Epoch: 10 | Training loss: 0.8880710317028894 | Validation Loss: 0.9174430454200734
+Epoch: 11 | Training loss: 0.8775610553301297 | Validation Loss: 0.9083388769398621
+Epoch: 12 | Training loss: 0.8675059880558242 | Validation Loss: 0.8996896214498197
+Epoch: 13 | Training loss: 0.8578832333464907 | Validation Loss: 0.8914722039725611
+Epoch: 14 | Training loss: 0.8486707354356081 | Validation Loss: 0.8836664241112646
+Epoch: 15 | Training loss: 0.8398475147669132 | Validation Loss: 0.8762504594817839
