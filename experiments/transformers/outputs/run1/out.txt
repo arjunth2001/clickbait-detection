@@ -1,0 +1,10 @@
+Epoch: 1 | Training loss: 1.4328084728992452 | Validation Loss: 1.2264480139912397
+Epoch: 2 | Training loss: 1.0578646681596133 | Validation Loss: 1.0657027828954313
+Epoch: 3 | Training loss: 0.8479748176570426 | Validation Loss: 0.9830809101849672
+Epoch: 4 | Training loss: 0.7016133571236682 | Validation Loss: 0.951654777583117
+Epoch: 5 | Training loss: 0.5972940327093678 | Validation Loss: 0.93823150295647
+Epoch: 6 | Training loss: 0.5240022062701174 | Validation Loss: 0.9255579113807382
+Epoch: 7 | Training loss: 0.47210825177359006 | Validation Loss: 0.9041763937225624
+Epoch: 8 | Training loss: 0.43396442608430513 | Validation Loss: 0.9329590780097384
+Epoch: 9 | Training loss: 0.4035135112242659 | Validation Loss: 0.9523601732133963
+Epoch: 10 | Training loss: 0.38366492608815694 | Validation Loss: 0.9276456481378358
