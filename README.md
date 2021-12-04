@@ -39,6 +39,28 @@ Repository of the SMAI Project for Clickbait Detection
 - The implementation corresponding to training of the model can be found in `train.ipynb` and testing can be found in `testing.ipynb`.
 - The outputs (inferences corresponding to train and validation losses) can be found in the `outputs` folder.
 
+### experiments
+
+- This folder consists of various techniques which were implemented in the second phase of the project, for the purpose of experimentation and comparison.
+
+#### gru
+
+- This folder contains implementation of a model which exclusively used bi-directional Gated Recurrent Units (GRU) on text body alone (ignoring the heading completely for every heading-body pair) for the classification problem.
+- The code corresponding to training of the model can be found in `train.ipynb`.
+- The outputs obtained such as the confusion matrix, losses across epochs and corresponding plots, report regarding the evaluation metrics can be found in the `outputs` folder.
+
+#### sentence-transformer
+
+- This folder contains implementation of the approach described in the given paper, but uses sentence transformer for obtaining text encodings instead of word2vec.
+- The code corresponding to training of the model can be found in `train.ipynb`.
+- The outputs obtained such as the confusion matrix, losses across epochs and corresponding plots, report regarding the evaluation metrics can be found in the `outputs` folder.
+
+#### transformer
+
+- The model implemented in this folder uses transformers (BERT) along with attention layers and cosine similarity, for the classification task.
+- The code corresponding to training of the model can be found in `train.ipynb`.
+- The outputs obtained such as the confusion matrix, losses across epochs and corresponding plots, report regarding the evaluation metrics can be found in the `outputs` folder.
+
 ## Model Checkpoints
 
 - The saved model checkpoints can be viewed [here](https://iiitaphyd-my.sharepoint.com/:f:/g/personal/arjun_thekoot_research_iiit_ac_in/EpyZblI5sjNLjcuk7lRvbIgBlrAjmJbbrzjmkr8fj4W1Bw?e=YrDpmx).
